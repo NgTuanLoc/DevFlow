@@ -3,7 +3,6 @@ import localFont from "next/font/local";
 import { ReactNode } from "react";
 import { ThemeProvider } from "next-themes";
 
-// @ts-expect-error css file is valid
 import "./globals.css";
 import { Toaster } from "sonner";
 import { SessionProvider } from "next-auth/react";
