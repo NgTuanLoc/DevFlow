@@ -4,6 +4,7 @@ npx shadcn@latest add button
 npx shadcn@latest add sonner
 npx shadcn@latest add form
 npx shadcn@latest add input
+npx shadcn@latest add badge
 
 env for auth
 AUTH_SECRET=
